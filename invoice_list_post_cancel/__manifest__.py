@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'Invoice Post,Draft and Cancel from List View',
+    'name': 'Invoice Post,Draft and Cancel from List View.',
     'version': '15.0.0.0.0',
     'category': 'Accounting/Accounting',
     'license': 'LGPL-3',
@@ -19,6 +19,7 @@
     'data': [
         'views/account_move.xml',
     ],
+    'license': 'AGPL-3',
     'images': ['static/description/banner.png'],
     'installable': True,
     'auto_install': False,
